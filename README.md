@@ -65,7 +65,7 @@ BODY
 {
   "item":"0ae345dd93193210fd263a6efaba 1075" ,
   "opened_by":"6816f79cc0a8016401c5a33be04be441" ,
-  "requesrted_for" ; "6816f79cc0a8016401c5a33be04be441"
+  "requesrted_for" : "6816f79cc0a8016401c5a33be04be441"
 }
 ```
 
@@ -73,7 +73,7 @@ BODY
 ### Example Response
 ```json
 "result": {
-    "id" ; "d880fe9293ddf21Øfd263a6efaba1076",
+    "id" : "d880fe9293ddf21Øfd263a6efaba1076",
     "requested for" : "62d78687c0a010e00b3d84178adc913",
     "total cost": "140"
 }
@@ -91,8 +91,8 @@ GET https://dev313196.service-now.com/api/x_1858574_it_reque/it_request/request/
 "Opened by" : "6816f79ccea8Ø164e1c5a33beø4be441",
 "Requested_for" : "62d78687cea8Ø1øeøeb3d84178adc913",
 "Item": "0ae345dd9319321Øfd263a6efaba1Ø75",
-"Quantity" ; "2"
-"Total Cost": "140
+"Quantity" : "2"
+"Total Cost" : "140
 "Status": "requested"
 }
 ```
