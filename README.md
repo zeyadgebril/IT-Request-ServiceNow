@@ -92,7 +92,7 @@ GET https://dev313196.service-now.com/api/x_1858574_it_reque/it_request/request/
 "Requested_for" : "62d78687cea8Ø1øeøeb3d84178adc913",
 "Item": "0ae345dd9319321Øfd263a6efaba1Ø75",
 "Quantity" : "2"
-"Total Cost" : "140
+"Total Cost" : "140"
 "Status": "requested"
 }
 ```
