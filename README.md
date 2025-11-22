@@ -64,6 +64,7 @@ POST https://dev313196.service-now.com/api/x_1858574_it_reque/it_request/request
 BODY
 {
   "item":"0ae345dd93193210fd263a6efaba 1075" ,
+  "quantity" : "2"
   "opened_by":"6816f79cc0a8016401c5a33be04be441" ,
   "requesrted_for" : "6816f79cc0a8016401c5a33be04be441"
 }
